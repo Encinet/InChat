@@ -1,0 +1,6 @@
+name: InChat
+version: '${version}'
+main: org.encinet.inchat.InChat
+api-version: 1.19
+authors: [ ObcbO ]
+depend: [PlaceholderAPI]
